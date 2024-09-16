@@ -5,7 +5,7 @@ date: 2024-01-01
 draft: false
 
 cascade:
-  featured_image: '/images/summary_large.png'
+  featured_image: '/images/summary_cropped.webp'
 
 ---
 
