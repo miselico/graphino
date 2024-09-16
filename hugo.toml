@@ -1,4 +1,4 @@
-baseURL = 'https://graphino.nl/'
+baseURL = 'https://www.graphino.nl/'
 languageCode = 'en-us'
 title = 'Graphino'
 theme = 'ananke'
