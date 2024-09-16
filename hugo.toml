@@ -2,6 +2,7 @@ baseURL = 'https://www.graphino.nl/'
 languageCode = 'en-us'
 title = 'Graphino'
 theme = 'ananke'
+enableRobotsTXT = true
 
 
 [params]
